@@ -1,6 +1,6 @@
 # kebbi_app
 
-拜託ngrok別關掉 如果不小心關掉記得修正 專案中 RetrofitClient.kt 裡其中一行  private const val BASE_URL = "新的網址/" -->記得網址最後要加 /
+拜託ngrok別關掉 如果不小心關掉記得修正 專案中 RetrofitClient.kt 裡其中一行:private const val BASE_URL = "新的網址/" ->記得網址最後要加/
 
 
 
