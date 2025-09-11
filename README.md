@@ -4,7 +4,7 @@
 
 
 
-後端啟動:   
+後端啟動順序:   
 
             (進入資料夾)  : cd ~/桌面/voice-chat-gemini-master/kebbi 
 
